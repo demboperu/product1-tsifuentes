@@ -1,0 +1,139 @@
+body{
+	_background-color: #C0DEED  !important;
+}
+.body-login {
+background-color: #3a92c8;
+background: -webkit-radial-gradient(circle,#94d2f8,#3a92c8);
+background: -moz-radial-gradient(circle,#94d2f8,#3a92c8);
+background: -ms-radial-gradient(circle,#94d2f8,#3a92c8);
+}
+.init-twitter{
+	color: #fff;
+}
+.contentbody{
+	padding:50px 8% 0px 8%;
+	background-image:url('../image/bg.png')  !important;
+	background-repeat: no-repeat;
+	height:93%;
+}
+#contentbody > .x-panel-body-default{
+	background: #C0DEED !important;
+	height: 40px;
+}
+.contentmessage{
+	margin: 10px 0px 5px 60px;
+	font-size: 14px;
+	min-height: 60px;
+}
+.avatar{
+	float: left;
+	margin: 10px 0px 10px 0px;
+}
+.username{
+	margin-bottom: 10px;
+}
+.username span:nth-child(1){
+	font-weight: bold;
+}
+.username span:nth-child(2){
+	color: #999;
+}
+.twitmessage{
+
+}
+.txt-search{
+	margin-right: 10px;
+}
+.txt-search .x-form-text{
+	height: 32px !important;
+}
+.txt-search input{
+	border-radius: 3px;
+	height: 32px;
+}
+.btn-custom-top{
+	width: 35px;
+	height: 35px;
+	margin: 0px 20px 0px 0px; 
+	border: 1px solid #146AAF;
+	background: transparent;
+}
+.btn-custom-top:hover{
+	border: 1px solid #fff;
+}
+.btn-custom-down{
+	margin-left: 10px;
+}
+.btn-custom-down .x-btn-inner{
+	color: #fff !important;
+	text-shadow : transparent 0px 0px 0px;
+}
+.btn-custom{
+	width: 67px;
+	margin: 0px 0px 10px 10px;
+	border: 1px solid transparent;
+	background: transparent;	
+}
+.btn-custom .x-btn-inner{
+	color : #ccc !important;
+}
+.btn-custom button{
+	width:58px;
+}
+
+.icon-logo{
+	background-image:url('../image/twitter.png')  !important;
+	height: 70px;
+	width: 90px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom:20px; 
+}
+.icon-option,.btn-custom .x-btn-icon{
+	background-image:url('../image/twitter_web_sprite_icons.png')  !important;
+	background-repeat: no-repeat;
+}
+.icon-home{
+	background-position: 21px -105px !important;
+}
+.icon-connect{
+	background-position: -59px -44px !important;
+}
+.icon-discover{
+	background-position: -20px -49px !important;
+}
+.icon-account{
+	background-position: -102px -49px !important;
+}
+.icon-new{
+	background-position: -193px -44px !important;
+}
+.icon-search{
+}
+.btn-custom:hover .x-btn-inner{color:#fff !important;}
+.btn-custom:hover .icon-account{
+	background-position: -102px -79px !important;
+}
+.btn-custom:hover .icon-home{
+	background-position: 21px -75px !important;
+}
+.btn-custom:hover .icon-connect{
+	background-position: -59px -74px !important;
+}
+.btn-custom:hover .icon-discover{
+	background-position: -20px -79px !important;
+}
+
+.grid-twitts{
+	padding:1%;
+	border-radius: 4px;
+	background: rgba(255,255,255,0.3);
+}
+
+.panel-login{
+	margin: 10px;
+}
+
+.btn-access{
+	_background: #000;
+}
